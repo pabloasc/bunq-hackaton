@@ -6,4 +6,4 @@ Single-page JS app prototyte for setting up micro-donations to you favorites NGO
 
 ![bunq](images/bunq.png)
 
-It is using Bulma Framework to get awesome web interface.
+It is using Bulma Framework to get an awesome web interface.
